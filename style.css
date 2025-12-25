@@ -22,7 +22,7 @@ body {
 }
 
 input {
-  width: 230px;
+  width: 231px;
   border: none;
   padding: 24px;
   margin: 10px;
@@ -48,7 +48,7 @@ button {
 }
 
 .btn {
-  background-color: #fb7c14;
+  background-color: #c05e0e;
 }
 
 .operator {
